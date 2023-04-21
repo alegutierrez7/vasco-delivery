@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: red;
+}
+
+input {
+  display: flex;
+}
+
+img {
+  height: 300px;
+  width: 1300px;
+}
+
+button {
+  color: black;
+}
